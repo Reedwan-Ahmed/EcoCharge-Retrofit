@@ -1,6 +1,6 @@
 # EcoCharge Retrofit
 
-> A retrofit add-on intended to make existing battery-rickshaw / e-rickshaw chargers smarter, more energy-aware, and grid-friendlier — without replacing the owner's existing charger.
+A retrofit add-on intended to make existing battery-rickshaw / e-rickshaw chargers smarter, more energy-aware, and grid-friendlier — without replacing the owner's existing charger.
 
 **Project type:** Energy efficiency / power electronics / embedded control  
 **Controller concept:** ESP32  
