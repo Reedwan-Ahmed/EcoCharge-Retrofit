@@ -1,0 +1,9 @@
+Signal,Direction,ESP32_GPIO,Interface,Isolation_required,Voltage_or_range,Part_number,Calibration,Fail_state,Notes
+RTC_SDA,Controller input/output,,,,,,,,
+RTC_SCL,Controller output,,,,,,,,
+Battery_voltage,Input,,,,,,,,
+Battery_current,Input,,,,,,,,
+Battery_temperature,Input,,,,,,,,
+Relay_enable,Output,,,,,,,,Must default disabled
+Buck_PWM,Output,,,,,,,,Must remain disabled until reviewed
+Fault_input,Input,,,,,,,,
