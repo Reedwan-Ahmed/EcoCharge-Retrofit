@@ -1,0 +1,11 @@
+parameter,value,unit,classification,source_or_note
+daily_energy_saving,3.3,kWh_per_vehicle_day,estimate,Page 2/9; extrapolated from cited BUET-GIZ comparison
+electricity_tariff,11.36,BDT_per_kWh,slide_assumption,Page 9; verify tariff category and date
+monthly_days,30,days,calculation_assumption,Used for reproducible monthly estimate
+monthly_battery_saving,1040,BDT_per_vehicle_month,estimate,Page 9; based on assumed 12-to-18-month life extension
+box_target_price,4000,BDT,target,Pages 3 and 9 detailed calculation
+prototype_bom,6900,BDT,estimate,Page 9 footnote
+estimated_production_cost,3350,BDT,estimate,Page 9 footnote
+product_cc_current,15,A,design_target,Pages 5 and 7
+product_cv_voltage,72,V,design_target,Pages 5 and 7; battery maker profile must be checked
+simulation_cv_test_voltage,61.03,V,simulation_test_value,Page 7; reduced setpoint for short simulation test
